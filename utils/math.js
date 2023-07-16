@@ -21,3 +21,4 @@ function divideNumbers(a,b)
 
 exports.addNumbers = addNumbers;
 exports.subtractNumbers = subtractNumbers;
+exports.multiplyNumbers = multiplyNumbers;
