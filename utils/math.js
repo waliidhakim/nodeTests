@@ -19,7 +19,7 @@ function divideNumbers(a,b)
     return a / b;
 }
 
+exports.divideNumbers = divideNumbers;
 exports.addNumbers = addNumbers;
 exports.subtractNumbers = subtractNumbers;
 exports.multiplyNumbers = multiplyNumbers;
-exports.divideNumbers = divideNumbers;
